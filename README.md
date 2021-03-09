@@ -1,4 +1,4 @@
-<h2><img src="assets/wave.gif" width="50">  &nbsp;Hey there! I'm Day <img src="assets/panda.jpg" width="60"></h2>
+<h1><img src="assets/wave.gif" width="40">  &nbsp;Hey there! I'm Day <img src="assets/panda.jpg" width="50"></h1>
 
 **My name is Dayrene Fundora. :smiley:**
 
