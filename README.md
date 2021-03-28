@@ -4,11 +4,15 @@
 
 This is the place where I opensource stuff and break things <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on something cool :wink:
 
 - 📫 How to reach me: [Telegram](t.me/AGirlHas_No_Name) or send me an [email](mailto:dayfundoraglez@gmail.com )
 
 - ⚡ Fun fact: **"*def array, undone*"** and **''*Rare Yoda, fun end*''** are anagrams of my name
+
+  ​		If you want to find yours, use this repo [Anagrams Generator](https://github.com/dayfundora/Anagrams_Genreator)
+
+- 📝  Checkout my [Resume](https://github.com/dayfundora/dayfundora/blob/master/resume.pdf).
 
 - I :heart: :panda_face:s
 
